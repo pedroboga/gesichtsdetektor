@@ -1,2 +1,2 @@
 # gesichtsdetektor
-A face detector app, learning how to use the Vision framework from Apple
+A face detector app, using Apple's Vision framework.
